@@ -7,8 +7,8 @@
 
 ## 👩‍🏫👨‍🏫 Author 
 
-Bo Li<sup>+,#</sup>, Youjin Hao<sup>+</sup>, *et al.*
+Bo Li<sup>1,#</sup>, Youjin Hao<sup>1</sup>, *et al.*
 
-+ Computational and Integrative Biology Group, College of Life Sciences, Chongqing Normal University, Chongqing 401331, China
+1. Computational and Integrative Biology Group, College of Life Sciences, Chongqing Normal University, Chongqing 401331, China
 
 **CibStarter**: Content 
