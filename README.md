@@ -1,6 +1,6 @@
 # CibStarter: The ABC Knowledgebase for Beginners in Bioinformatics # 
 
-[![CibStarter](https://img.shields.io/badge/LearnR-black?style=for-the-badge&logo=icq&logolColor=42F425)](https://github.com/libcell/CibStarter) 
+[![CibStarter](https://img.shields.io/badge/CibStarter-black?style=for-the-badge&logo=icq&logolColor=42F425)](https://github.com/libcell/CibStarter) 
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-red.svg)](http://perso.crans.org/besson/LICENSE.html)
 
 <img src = "img/CibStarter.png" width = "600" align = "middle"> 
