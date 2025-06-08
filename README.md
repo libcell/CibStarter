@@ -8,8 +8,8 @@
 
 ## 👩‍🏫👨‍🏫 Author 
 
-Feifei Li<sup>1</sup>,Bo Li<sup>1,#</sup>, *et al.*
+Feifei Li<sup>1</sup>, Bo Li<sup>1,#</sup>, *et al.*
 
-1) College of Life Sciences, Chongqing Normal University, Chongqing 401331, China
+- Computational and Integrative Biology Group, College of Life Sciences, Chongqing Normal University, Chongqing 401331, China
 
 <img src = "img/R.png" width = "800" align = "middle"> 
