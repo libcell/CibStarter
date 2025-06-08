@@ -7,8 +7,8 @@
 
 ## 👩‍🏫👨‍🏫 Author 
 
-Bo Li<sup>1,#</sup>, Youjin Hao<sup>1</sup>, *et al.*
+Bo Li<sup>1,#</sup>, Youjin Hao<sup>1</sup>, Mingwei Liu<sup>2</sup>, *et al.*
 
 1) Computational and Integrative Biology Group, College of Life Sciences, Chongqing Normal University, Chongqing 401331, China
-
+2) Key Laboratory of Clinical Laboratory Diagnostics, College of Laboratory Medicine, Chongqing Medical University, Chongqing 400016, China
 **CibStarter**: Content 
