@@ -4,6 +4,7 @@
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-red.svg)](http://perso.crans.org/besson/LICENSE.html)
 
 <img src = "img/CibStarter.png" width = "600" align = "middle"> 
+This is the ***Cover Page*** of project (drawn by *Dr*. Li)
 
 ## 👩‍🏫👨‍🏫 Authors and maintainers 
 
@@ -18,3 +19,16 @@ Bo Li<sup>1,†</sup>, Youjin Hao<sup>1</sup>, Mingwei Liu<sup>2</sup>, *et al.*
 [![](https://img.shields.io/badge/follow%20me%20on-WeChat-green.svg)](https://libcell.github.io)
 
 ## **CibStarter**: Content 
+
+**Note**: Here we will provide a bioinformatics pipeline for phylogenetic analysis in R, which includes seven steps: 
+
+| No. | Content | Author | Time | Development |
+| :----: | :---- | :----: | :----: | :----: |
+| 1 | Chunk-01. Loading all aligned DNA sequences | Yue Zou | May. 4th | [![Codecov](https://codecov.io/github/ropensci/drake/coverage.svg?branch=master)](https://codecov.io/github/ropensci/drake?branch=master) |
+| 2 | Chunk-02. Constructing phylogenetic tree using NJ | Yue Zou | May. 4th | [![Codecov](https://codecov.io/github/ropensci/drake/coverage.svg?branch=master)](https://codecov.io/github/ropensci/drake?branch=master) |
+| 3 | Chunk-03. Constructing phylogenetic tree using MP | Yue Zou | May. 4th | [![Codecov](https://codecov.io/github/ropensci/drake/coverage.svg?branch=master)](https://codecov.io/github/ropensci/drake?branch=master) |
+| 4 | Chunk-04. Constructing phylogenetic tree using ML | Yue Zou | May. 4th | [![Codecov](https://codecov.io/github/ropensci/drake/coverage.svg?branch=master)](https://codecov.io/github/ropensci/drake?branch=master) |
+| 5 | Chunk-05. Constructing phylogenetic tree using BI | Yue Zou | May. 4th | [![Codecov](https://codecov.io/github/ropensci/drake/coverage.svg?branch=master)](https://codecov.io/github/ropensci/drake?branch=master) |
+| 6 | Chunk-06. Constructing phylogenetic tree using Supermatrix strategy | Yue Zou | May. 4th | [![Codecov](https://codecov.io/github/ropensci/drake/coverage.svg?branch=master)](https://codecov.io/github/ropensci/drake?branch=master) |
+| 7 | Chunk-07. Constructing phylogenetic tree using Supertree strategy | Yue Zou | May. 4th | [![Codecov](https://codecov.io/github/ropensci/drake/coverage.svg?branch=master)](https://codecov.io/github/ropensci/drake?branch=master) |
+| 8 | Chunk-08. To be available... | TBA | TBA | [![rOpenSci](https://badges.ropensci.org/156_status.svg)](https://github.com/ropensci/onboarding/issues/156) |
