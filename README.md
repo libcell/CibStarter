@@ -24,5 +24,5 @@ Bo Li<sup>1,†</sup>, Youjin Hao<sup>1</sup>, Mingwei Liu<sup>2</sup>, *et al.*
 
 | No. | Content | Author | Time | URL |
 | :----: | :---- | :----: | :----: | :----: |
-| 1 | Chunk-01. EndNote简明使用教程 | Bo Li | Jun. 4th, 2025 | [<img src="img/bilibili.png" alt="Bilibili" width="100"/>](https://www.bilibili.com/video/BV1MvjzzDEgJ/?spm_id_from=333.337.search-card.all.click) |
-| 2 | Chunk-02. Github多人协作开发项目的教程 | Bo Li | Jun. 9th, 2025 | [<img src="img/bilibili.png" alt="Bilibili" width="100"/>](https://www.bilibili.com/video/BV1o7411U7j6/?spm_id_from=333.337.search-card.all.click&vd_source=0a507793fe0feba9d59b2caecb7c95d9) |
+| 1 | Chunk-01. EndNote简明使用教程 | Bo Li | Jun. 4th, 2025 | [<img src="img/bilibili.png" alt="Bilibili" width="100">](https://www.bilibili.com/video/BV1MvjzzDEgJ/?spm_id_from=333.337.search-card.all.click) |
+| 2 | Chunk-02. Github多人协作开发项目的教程 | Bo Li | Jun. 9th, 2025 | [<img src="img/bilibili.png" alt="Bilibili" width="100">](https://www.bilibili.com/video/BV1o7411U7j6/?spm_id_from=333.337.search-card.all.click&vd_source=0a507793fe0feba9d59b2caecb7c95d9) |
