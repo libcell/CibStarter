@@ -24,7 +24,7 @@ Bo Li<sup>1,†</sup>, Youjin Hao<sup>1</sup>, Mingwei Liu<sup>2</sup>, *et al.*
 
 | No. | Content | Author | Time | Development |
 | :----: | :---- | :----: | :----: | :----: |
-| 1 | Chunk-01. Loading all aligned DNA sequences | Yue Zou | May. 4th | [![Codecov](https://codecov.io/github/ropensci/drake/coverage.svg?branch=master)](https://codecov.io/github/ropensci/drake?branch=master) |
+| 1 | Chunk-01. EndNote简明使用教程 | Bo Li | Jun. 4th | [![Codecov](https://codecov.io/github/ropensci/drake/coverage.svg?branch=master)](https://codecov.io/github/ropensci/drake?branch=master) |
 | 2 | Chunk-02. Constructing phylogenetic tree using NJ | Yue Zou | May. 4th | [![Codecov](https://codecov.io/github/ropensci/drake/coverage.svg?branch=master)](https://codecov.io/github/ropensci/drake?branch=master) |
 | 3 | Chunk-03. Constructing phylogenetic tree using MP | Yue Zou | May. 4th | [![Codecov](https://codecov.io/github/ropensci/drake/coverage.svg?branch=master)](https://codecov.io/github/ropensci/drake?branch=master) |
 | 4 | Chunk-04. Constructing phylogenetic tree using ML | Yue Zou | May. 4th | [![Codecov](https://codecov.io/github/ropensci/drake/coverage.svg?branch=master)](https://codecov.io/github/ropensci/drake?branch=master) |
