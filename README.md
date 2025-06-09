@@ -1,4 +1,4 @@
-# CibStarter: The ABC Knowledgebase for Beginners in Bioinformatics # 
+# CibStarter: the ABC Knowledgebase for Beginners in Bioinformatics # 
 
 [![CibStarter](https://img.shields.io/badge/CibStarter-black?style=for-the-badge&logo=icq&logolColor=42F425)](https://github.com/libcell/CibStarter) 
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-red.svg)](http://perso.crans.org/besson/LICENSE.html)
@@ -18,9 +18,9 @@ Bo Li<sup>1,†</sup>, Youjin Hao<sup>1</sup>, Mingwei Liu<sup>2</sup>, *et al.*
 [![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://libcell.github.io)
 [![](https://img.shields.io/badge/follow%20me%20on-WeChat-green.svg)](https://libcell.github.io)
 
-## **CibStarter**: Content 
+## **CibStarter**: 
 
-**Note**: Here we will provide a bioinformatics pipeline for phylogenetic analysis in R, which includes seven steps: 
+**Note**: Here we will provide a basic course for learning bioinformatics, which includes several modules: 
 
 | No. | Content | Author | Time | URL |
 | :----: | :---- | :----: | :----: | :----: |
