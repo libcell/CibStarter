@@ -4,7 +4,7 @@
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-red.svg)](http://perso.crans.org/besson/LICENSE.html)
 
 <img src = "img/CibStarter.png" width = "600" align = "middle"> 
-This is the ***Cover Page*** of project (drawn by *Dr.* Li*et al.*)
+This is the ***Cover Page*** of this course (drawn by *Dr*. Liu)
 
 ## 👩‍🏫👨‍🏫 Authors and maintainers 
 
