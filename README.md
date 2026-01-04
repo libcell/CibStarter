@@ -6,6 +6,8 @@ This is the ***Cover Page*** of this course (drawn by *Dr*. Li)
 
 <img src = "img/CibStarter.png" width = "600" align = "middle"> 
 
+This is the ***Cover Page*** of this course (drawn by *Dr*. Li)
+
 ## 👩‍🏫👨‍🏫 Authors and maintainers 
 
 Bo Li<sup>1,†</sup>, Youjin Hao<sup>1</sup>, Mingwei Liu<sup>2</sup>, *et al.*
