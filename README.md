@@ -1,4 +1,4 @@
-# CibStarter: The ABCs of Bioinformatics for New Lab Members
+# CibStarter: Bioinformatics Graduate Starter Kit 2.0
 
 ***CibStarter*** is an onboarding knowledgebase designed to help new members of CibLab build essential bioinformatics skills, understand common workflows, and quickly integrate into ongoing research projects.
 
