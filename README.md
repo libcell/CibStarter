@@ -25,9 +25,9 @@ Bo Li<sup>1,†</sup>, Youjin Hao<sup>1</sup>, Mingwei Liu<sup>2</sup>, *et al.*
 
 **Note**: Here we will provide a basic course for learning bioinformatics, which includes several modules: 
 
-| No. | Module & Course | URL | Resource | Time | Contact |
+| No. | Module & Course | Movie | Resource | Time | Contact |
 | :----: | :---- | :----: | :----: | :----: | :----: |
-| 01 | EndNote简明使用教程 | [<img src="img/bilibili.png" alt="Bilibili" width="100">](https://www.bilibili.com/video/BV1uJ8fzzE8m/) | <a href="https://pan.baidu.com/s/1f7gJr7kuiHwt2vxtzAxNKQ?pwd=x3iw"> <img src="img/endnote.png" alt="EndNote" width="100"> | Jun. 4th, 2025 | Bo Li |
+| 01 | EndNote简明使用教程 | [<img src="img/bilibili.png" alt="Bilibili" width="100">](https://www.bilibili.com/video/BV1uJ8fzzE8m/) | <a href="https://pan.baidu.com/s/10xC3K855BBxhah1TudId2Q?pwd=awtq"> <img src="img/endnote.png" alt="EndNote" width="100"> | Jun. 4th, 2025 | Bo Li |
 | 02 | Linux零基础入门教程 | [<img src="img/bilibili.png" alt="Bilibili" width="100">](https://www.bilibili.com/video/BV1Da4y137PH/) | <img src="img/ubuntu.png" alt="Ubuntu" width="100"> | Jun. 9th, 2025 | Bo Li |
 | 03 | Github多人协作开发项目的教程 | [<img src="img/bilibili.png" alt="Bilibili" width="100">](https://www.bilibili.com/video/BV1o7411U7j6/) | <img src="img/github_desktop.png" alt="Github-desktop" width="100"> | Jun. 10th, 2025 | Bo Li |
 | 04 | Docker快速上手教程 | [<img src="img/bilibili.png" alt="Bilibili" width="100">](https://www.bilibili.com/video/BV11L411g7U1/) | <img src="img/docker.png" alt="Docker" width="100"> | Jun. 10th, 2025 | Bo Li |
